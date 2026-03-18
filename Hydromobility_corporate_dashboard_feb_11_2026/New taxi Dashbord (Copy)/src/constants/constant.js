@@ -1,0 +1,66 @@
+export const img_url = "enter_your_admin_link/uploads/";
+export const api_url = "enter_your_admin_link/api/";
+export const GOOGLE_MAPS_API_KEY = "AIzaSyBll1KT_tnpeIhSn4gfpYTwixDHe-OjHfE";
+export const base_url = "enter_your_admin_link/";
+export const app_name = "Hydromobility EV";
+
+export const corporate_customer_last_month_dashboard = "corporate_customer/last_month_dashboard";
+export const corporate_agent_profile_image_upload = "corporate_agent/profile_image_upload";
+export const corporate_agent_profile_picture_update = "corporate_agent/profile_picture_update";
+export const corporate_agent_profile_update = "corporate_agent/profile_update";
+export const corporate_agent_get_profile = "corporate_agent/get_profile";
+export const corporate_customer_my_bookings = "corporate_customer/my_bookings";
+export const corporate_customer_corporate_monthly_settlement = "corporate_customer/corporate_monthly_settlement";
+export const corporate_customer_promo_codes = "corporate_customer/promo_codes";
+export const corporate_customer_future_by_trip = "corporate_customer/future_by_trip";
+export const corporate_customer_future_bookings = "corporate_customer/future_bookings";
+export const corporate_trip_cancel = "corporate/trip_cancel";
+export const corporate_customer_admin_list = "corporate_customer/admin_list";
+export const corporate_customer_list_policy = "corporate_customer/list_policy";
+export const corporate_customer_get_group = "corporate_customer/get_group";
+export const corporate_customer_list_group = "corporate_customer/list_group";
+export const corporate_customer_group_create = "corporate_customer/group_create";
+export const corporate_customer_group_update = "corporate_customer/group_update";
+export const corporate_customer_delete_group = "corporate_customer/delete_group";
+
+export const get_faqs = "get_faqs";
+export const driver_tutorials = "driver/tutorials";
+export const corporate_customer_login = "corporate_customer/login";
+export const corporate_customer_forgot_password = "corporate_customer/forgot_password";
+export const corporate_customer_reset_password = "corporate_customer/reset_password";
+export const corporate_customer_list = "corporate_customer/list";
+export const corporate_agent_list = "corporate_agent/list";
+export const customer_profile_update = "customer/profile_update";
+export const customer_delete = "customer/delete";
+export const corporate_customer_register = "corporate_customer/register";
+export const customer_register = "customer/register";
+export const corporate_agent_register = "corporate_agent/register";
+export const customer_excel_upload = "customer_excel_upload";
+export const customer_excel_import = "customer_excel_import";
+export const corporate_customer_policy = "corporate_customer/policy";
+export const corporate_customer_update_policy = "corporate_customer/update_policy";
+export const corporate_customer_delete_policy = "corporate_customer/delete_policy";
+
+export const corporate_customer_profile_image_upload = "corporate_customer/profile_image_upload";
+export const corporate_customer_profile_picture_update = "corporate_customer/profile_picture_update";
+export const corporate_customer_profile_update = "corporate_customer/profile_update";
+export const corporate_customer_get_profile = "corporate_customer/get_profile";
+
+export const corporate_customer_get_corporate_booking = "corporate_customer/get_corporate_booking";
+export const customer_get_estimation_fare = "customer/get_estimation_fare";
+export const customer_get_zone = "customer/get_zone";
+export const customer_ride_confirm = "customer/ride_confirm";
+export const corporate_customer_bookings_list = "corporate_customer/bookings_list";
+export const corporate_customer_update_company = "corporate_customer/update_company";
+export const corporate_customer_today_bookings = "corporate_customer/today_bookings";
+
+export const customer_get_about = "customer/get_about";
+export const trip_invoice_download = "trip_invoice/download";
+export const corporate_customer_past_by_trip = "corporate_customer/past_by_trip";
+export const corporate_customer_past_bookings = "corporate_customer/past_bookings";
+export const get_term_conditions = "get_term_conditions";
+export const corporate_customer_today_by_trip = "corporate_customer/today_by_trip";
+export const payment_statement_download = "payment_statement/download/";
+export const mpesa_check_status = "mpesa/check_status";
+export const customer_app_settings = "customer/app_settings";
+export const quick_mpesa = "quickmpesa/";

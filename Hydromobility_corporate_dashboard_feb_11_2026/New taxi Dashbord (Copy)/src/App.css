@@ -1,0 +1,44 @@
+.mapboxgl-popup.route-distance-popup {
+  z-index: 1000;
+}
+
+.mapboxgl-popup.route-distance-popup .mapboxgl-popup-content {
+  padding: 0;
+  background: transparent;
+  box-shadow: none;
+}
+
+.mapboxgl-popup.route-distance-popup .mapboxgl-popup-tip {
+  display: none;
+}
+
+.custom-marker {
+  cursor: move;
+}
+
+/* Add animation for markers */
+@keyframes pulse {
+  0%, 100% {
+    transform: scale(1);
+  }
+  50% {
+    transform: scale(1.1);
+  }
+}
+
+.custom-marker div {
+  animation: pulse 2s infinite;
+}
+
+.goog-te-banner-frame.skiptranslate {
+  display: none !important;
+}
+
+body {
+  top: 0px !important;
+}
+
+.goog-logo-link,
+.goog-te-gadget {
+  display: none !important;
+}

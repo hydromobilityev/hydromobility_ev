@@ -1,0 +1,13 @@
+@import "tailwindcss";
+
+/* Keep Inter for everything */
+body {
+  font-family: 'Inter', sans-serif;
+}
+
+/* But restore font for Font Awesome icons */
+.fa, .fas, .far, .fal, .fab {
+  font-family: "Font Awesome 6 Free" !important;
+  font-weight: 900; /* solid icons */
+}
+
