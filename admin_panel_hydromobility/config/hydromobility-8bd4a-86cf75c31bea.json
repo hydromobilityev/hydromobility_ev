@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "hydromobility-8bd4a",
+  "private_key_id": "86cf75c31bea4c3b26b370fbea282d7ee9f8d3a7",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQCcdSZmH8JBwBgE\n7m2FsI29rS0LxdQAhWU3kwXo6650ypK0bASy/sjSHqiPoHEyIUuP7+LU+bLYOoa2\ned1aiLol6wLvBaoPrLjb8UXkRm870dI4lwcERRLRA2u2GAajxuQFWOlGHwX3pmlF\nxQu0GtnQYexaROEvm4huvrc/NwZNgNg2aqb0QBQcY9VC4+qCLehHzzJQMyK1Hdgc\nqa0IRPLVPaFhDxx8/uqWOTrHtrlBc6phTrgceywgNoqNk9YZyGM7APM2aTqghpEq\n/1uW/OXBBDexd7O9zxBLPDR2TiyUoQr0dl28/N9uoaesMQ9afKZJbVIpLE/3C7RG\nlD0lSZT3AgMBAAECggEADDXtNav/QmTP+xW/B0YMnRcQHIq0ZwebxK1jmRZ7wRjm\nP9DswcODJmyTuNHlKh8357EcwbgGYaKZTOu2snaLs9XjOFORPppUuxjZ3MNnS897\nJqt/nErmLKXY5cp7Ci34y2oLARjLiggIA0f21Ks1ZwwD1DyEwdOgeQ3G/QoGvEzV\na8tHJLDTbDioLZTVdZD3OBKxLRNUkFcnsDNNsgozPMyMKPC8zY2fBaacGNbZVXIx\nu706sAVRO9r42m1wa7iEBz2RKUX0lR7yn53BkHCZpKYPyZICNrtT5SVVJSuOhb1f\nGK/I/kucuf3U5lQ3gVAXq79ViE+to3hOrLB8Jb2iIQKBgQDZ/0OnaSQvQQuEIYkN\nD4eH3opYRhvVBwUngdWU26+7e0+BDVIMwFfLRS6J5qt0g4T1o5OM3/kV02O3nACq\nKHBV2AU/LyTNRjbfpr6Gsi/Hodnl7gS5GsH4X3ew/9xIQdRm2cRDrbG33cPj5Vrf\nrjPZ+R3aLCqeiywnx4/CpmmoSQKBgQC3u4MGWhSpNDD0/BtEtnUgmC5Yrf3+6qHJ\npHf8cFY/lvaBwGyNczePbUTSlLL9fqv6sg0XO8mEVU1F3tI7uIT4cARFmB5bD3Vx\nzb+4sgBdlXCwZeJiC4AJ8W6XelVwOH97GYfLedTdAo3HaZDslp9bWNQt82qVA97N\nAwiZ0O3TPwKBgQCbZ95S+iFRjo0nJMEPDoMP2RXG2DP/KYIDKAuakwI0JTQIS/ay\nIGx1/Fuw80BHT3r5oiMNyp1HceskeZH/u9RZXiZfZLxXmjaEOdqZK23kYv1zbLrx\nOqIM7gHlrIDdAhDpQVUo6ipHaVC8pkSiMQ3F1lHxtoqre4t+0EUr/nZUAQKBgQCS\nDyPK8eOI22+r4Zq/1hhor/HwF2latCWnifLEoH1AEf+nCFSDYjuh7miOyx07fe6z\n3cWgWawKYlGKoOcaCMbURSBwPsyq8TAZJ0opRoAZ5UnvQR9ld+Tygpa7Hso66v8U\n2ifkrtZ0V6pkA1ztZ5QJZyVN3js1eR0udyHoPXpCuwKBgQDV7hBCPg0ajWwpMbsb\nnR+39cbQWiKmWWEEM2+SON2zew5uKkRKfe5sqPnbf1ysqtR4UZ7qJ2aarljM2HIo\nK/GiQm/hbrQW5cK7ZivTSuFsyGTwesR2aRa+QcW0xD+IU/D5qSjDem9x4JQ+Adir\nv4oVpsNYQOFJBcQlU+cRtcbp0A==\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-fbsvc@hydromobility-8bd4a.iam.gserviceaccount.com",
+  "client_id": "115191666313937063005",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-fbsvc%40hydromobility-8bd4a.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
