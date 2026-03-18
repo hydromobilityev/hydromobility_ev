@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "1089171095905",
+    "firebase_url": "https://hydromobility-8bd4a-default-rtdb.firebaseio.com",
+    "project_id": "hydromobility-8bd4a",
+    "storage_bucket": "hydromobility-8bd4a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1089171095905:android:c11f372c2fb469959dc520",
+        "android_client_info": {
+          "package_name": "com.hydromobility.customer"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnQKtpC8lpzk21QMF_V5SI0sEzp0ihIiA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1089171095905:android:9abc31bb93d3216f9dc520",
+        "android_client_info": {
+          "package_name": "com.hydromobility.driver"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnQKtpC8lpzk21QMF_V5SI0sEzp0ihIiA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
